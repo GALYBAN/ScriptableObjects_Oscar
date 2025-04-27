@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83ae3dd29e9ac9d48a0509ea0897c170, type: 3}
+  m_Name: TranslationData
+  m_EditorClassIdentifier: 
+  translations:
+  - english: Welcome
+    spanish: Bienvenido
+    french: Accueillir
+  - english: To the Odin's Temple
+    spanish: Al templo de Odin
+    french: 'Au temple d''Odin '
+  - english: You are about
+    spanish: "Est\xE1s a punto"
+    french: "Vous \xEAtes sur le point "
+  - english: To start a new adventure
+    spanish: De comenzar una nueva aventura
+    french: de commencer une nouvelle aventure
+  - english: English
+    spanish: "Ingl\xE9s"
+    french: Anglais
+  - english: Spanish
+    spanish: "Espa\xF1ol"
+    french: Espagnol
+  - english: French
+    spanish: "Franc\xE9s"
+    french: "Fran\xE7ais"
